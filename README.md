@@ -1,5 +1,9 @@
 # GitHub's late 2014 syntax
 
+Ports also available for your favourite editor
+
+- **Atom**: [jacobbednarz/atom-github-2014-syntax](https://github.com/jacobbednarz/atom-github-2014-syntax)
+
 ### Previews
 
 *HTML*
