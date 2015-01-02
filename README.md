@@ -3,13 +3,13 @@
 ### Previews
 
 *HTML*
-![](screenshot/html.png)
+![](screenshots/html.png)
 
 *PHP*
-![](screenshot/php.png)
+![](screenshots/php.png)
 
 *Ruby*
-![](screenshot/ruby.png)
+![](screenshots/ruby.png)
 
 ### Issues
 
